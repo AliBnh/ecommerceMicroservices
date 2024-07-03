@@ -17,7 +17,7 @@ This project serves as a practical exploration of microservices architecture, do
 - [Non-Functional Requirements](#non-functional-requirements)
 
 ## System Design
-![micro-services-global-architecture drawio](https://github.com/AliBnh/ecommerceMicroservices/assets/107149305/b70876a5-e015-4c50-a053-a16d758fdf9e)
+![micro-services-global-architecture drawio](https://github.com/AliBnh/ecommerceMicroservices/assets/107149305/d8b536ed-2c47-41b6-a37a-387b3a722b4c)
 
 
 ## Technologies Used
