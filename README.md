@@ -1,4 +1,3 @@
-```markdown
 # E-commerce Application Using Microservices Architecture
 
 This project serves as a practical exploration of microservices architecture, domain-driven design (DDD), and various Spring technologies. It demonstrates the implementation of an e-commerce application using modern tools and techniques.
@@ -19,7 +18,6 @@ This project serves as a practical exploration of microservices architecture, do
 ## System Design
 ![micro-services-global-architecture drawio](https://github.com/AliBnh/ecommerceMicroservices/assets/107149305/d8b536ed-2c47-41b6-a37a-387b3a722b4c)
 
-
 ## Technologies Used
 - **Microservices Architecture**: The application is divided into independent, loosely coupled services for improved scalability and maintainability.
 - **Domain-Driven Design (DDD)**: The code is structured around business domains, promoting better code organization and understanding.
@@ -35,10 +33,10 @@ This project serves as a practical exploration of microservices architecture, do
 
 ## Microservices Architecture
 The application is divided into independent microservices:
-- **Customer service**
-- **Order service**
-- **Payment service**
-- **Notification service (for emails)**
+- Customer service
+- Order service
+- Payment service
+- Notification service (for emails)
 
 Each service handles its specific functionality and communicates with others through APIs.
 - Configuration management is implemented using a dedicated config server.
