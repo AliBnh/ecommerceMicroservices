@@ -1,0 +1,7 @@
+spring:
+  config:
+    import: configserver:http://localhost:8888
+  application:
+    name: customer-service
+server:
+  port: 8090
