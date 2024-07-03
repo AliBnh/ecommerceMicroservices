@@ -30,6 +30,7 @@ This project serves as a practical exploration of microservices architecture, do
 - **Kafka**: Used for asynchronous messaging between services.
 - **Zipkin**: Enables distributed tracing to monitor requests across all microservices.
 - **Keycloak**: Provides a robust solution for implementing authentication and authorization.
+- **Docker**: Facilitates containerization, ensuring consistent environments across different stages of development and deployment.
 
 ## Microservices Architecture
 The application is divided into independent microservices:
