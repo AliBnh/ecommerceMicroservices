@@ -19,8 +19,7 @@ This project serves as a practical exploration of microservices architecture, do
 ![micro-services-global-architecture drawio](https://github.com/AliBnh/ecommerceMicroservices/assets/107149305/d8b536ed-2c47-41b6-a37a-387b3a722b4c)
 
 ## Technologies Used
-- **Microservices Architecture**: The application is divided into independent, loosely coupled services for improved scalability and maintainability.
-- **Domain-Driven Design (DDD)**: The code is structured around business domains, promoting better code organization and understanding.
+- **Microservices Architecture**: The application is divided into independent, loosely coupled services for improved scalability and maintainability, *Domain-Driven Design (DDD)* The code is structured around business domains, promoting better code organization and understanding.
 - **Spring Boot**: Provides a rapid application development framework for building microservices.
 - **Spring Cloud**: Offers a suite of tools for building distributed systems with Spring Boot, including:
   - **Spring Cloud Config Server**: Manages configuration for all microservices.
